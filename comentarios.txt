@@ -1,0 +1,5 @@
+1 com)Luego de los 10 primeros pasos e creado 1 directorio con mkdir en desktop, donde dentro de este cree 2 archivos .txt y 3 directorios donde dentro de cada uno tambien cree archivos .txt . por ultimo ejecute git status y vi que todavia no esta cargado nada de lo que he hecho.
+
+2 com)modifique los archivos .txt dentro de cada uno de los directorios como esta indicado en el punto anterior, pero no me marca nada distinto desde el anterior git status
+
+3 com)Agrege los archivos al area de staging con git add . y ejecutecute git status de nuevo y esta vez si hay cambios, ya que aparecieron todos los archivos en sala de espera, con la unica excepcion del archivo datosp.txt que aparecia cargado con los otros pero tambien que tenia una modificacion.
